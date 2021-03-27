@@ -13,7 +13,7 @@ NOTE: This works with NVIDIA Graphics Devices only, no AMD support as of now. Co
 
 Self-Promotion: A web interface of `gpustat` is available (in alpha)! Check out [gpustat-web][gpustat-web].
 
-[gpustat-web]: https://github.com/chwan-rice/gpustat-web
+[gpustat-web]: https://github.com/wookayin/gpustat-web
 
 
 Usage
@@ -63,7 +63,7 @@ If you don't have root privilege, please try to install on user namespace: `pip 
 To install the latest version (master branch) via pip:
 
 ```
-pip install git+https://github.com/wookayin/gpustat.git@master
+pip install git+https://github.com/chwan-rice/gpustat.git@master
 ```
 
 Note that starting from v1.0, gpustat will support [only Python 3.4+][gh-issue-66].
