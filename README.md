@@ -13,7 +13,7 @@ NOTE: This works with NVIDIA Graphics Devices only, no AMD support as of now. Co
 
 Self-Promotion: A web interface of `gpustat` is available (in alpha)! Check out [gpustat-web][gpustat-web].
 
-[gpustat-web]: https://github.com/wookayin/gpustat-web
+[gpustat-web]: https://github.com/chwan-rice/gpustat-web
 
 
 Usage
